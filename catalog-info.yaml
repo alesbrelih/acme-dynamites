@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "acme-dynamites"
+  description: "Acme dynamites"
+  annotations:
+    github.com/project-slug: alesbrelih/acme-dynamites
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "acme-dynamites"

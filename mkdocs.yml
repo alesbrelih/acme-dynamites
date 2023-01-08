@@ -1,0 +1,8 @@
+site_name: "acme-dynamites"
+site_description: "Acme dynamites"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
