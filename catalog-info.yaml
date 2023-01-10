@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: alesbrelih/acme-dynamites
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: acme-resources
 spec:
   type: website
   lifecycle: experimental
