@@ -10,4 +10,4 @@ spec:
   lifecycle: development
   owner: contact@localization.com
   definition:
-    $text: https://m2m.dcp.ericsson.net/dcpapi/rest/swagger.json
+    $json: https://m2m.dcp.ericsson.net/dcpapi/rest/swagger.json
