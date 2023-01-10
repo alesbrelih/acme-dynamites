@@ -10,4 +10,5 @@ spec:
   type: website
   lifecycle: experimental
   owner: "acme-dynamites"
-  providesApis: "acme-dynamites-api"
+  providesApis: 
+    - "acme-dynamites-api"
