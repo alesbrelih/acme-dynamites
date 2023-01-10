@@ -1,0 +1,13 @@
+---
+
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: localization-api
+  description: Localization API
+spec:
+  type: openapi
+  lifecycle: development
+  owner: contact@localization.com
+  definition:
+    $text: https://m2m.dcp.ericsson.net/dcpapi/rest/swagger.json

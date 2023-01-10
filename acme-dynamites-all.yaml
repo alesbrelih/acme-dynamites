@@ -9,3 +9,4 @@ spec:
   targets:
     - ./catalog-info.yaml
     - ./catalog-api.yaml
+    - ./localization-api.yaml
