@@ -1,0 +1,11 @@
+---
+
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: acme-dynamites
+  description: Acme dynamites
+spec:
+  targets:
+    - ./catalog-info.yaml
+    - ./catalog-api.yaml

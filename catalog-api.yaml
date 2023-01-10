@@ -1,0 +1,13 @@
+---
+
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: acme-dynamites-api
+  description: The Acme Dynamites API
+spec:
+  type: openapi
+  lifecycle: development
+  owner: petstore@example.com
+  definition:
+    $text: https://petstore.swagger.io/v2/swagger.json
