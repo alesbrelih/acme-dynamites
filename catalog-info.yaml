@@ -8,7 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: acme-resources
 spec:
-  type: service
+  type: website
   lifecycle: experimental
   owner: "acme-dynamites"
   providesApis:
